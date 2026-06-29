@@ -1,0 +1,6 @@
+{
+  "name": "SSC CHSL Mentor",
+  "description": "An AI-powered mentor, study planner, doubt solver, mock test analyzer, and prep tracker for SSC CHSL aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
